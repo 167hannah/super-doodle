@@ -1,0 +1,7 @@
+import tweepy
+
+consumer_key="Sq7ZbEHTmEGkTeBSeRCPAHs4i"
+consumer_secret="O1GMlbGyxP2myiBA1JUQlbHxhd2iBJQKZFpH4h2eCpBC2bO2gC"
+
+auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+
